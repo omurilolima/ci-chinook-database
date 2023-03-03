@@ -83,7 +83,7 @@ for track in tracks:
         track.MediaTypeId,
         track.GenreId,
         track.Composer,
-        track.Milliseconds, 
+        track.Milliseconds,
         track.Bytes,
         track.UnitPrice,
         sep=" | "
